@@ -3,6 +3,6 @@
 - [Admin Panel](https://tomatoadmin.vercel.app/)
 
 ## 🖥️ Portfolio
-Check out my [portfolio](https://sohan-das-portfolio.vercel.app/) for more projects and details.
+Check out my [portfolio](https://sohan-das-portfolio.vercel.app/) for more details.
 
 
