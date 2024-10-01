@@ -1,3 +1,8 @@
-Project Live link - https://tomato-sohan.vercel.app/
-Admin panel live link - https://tomatoadmin.vercel.app/
-Portfolio - https://sohan-das-portfolio.vercel.app/
+## 🚀 Tomato Live Demo
+- [User Interface](https://tomato-sohan.vercel.app/)
+- [Admin Panel](https://tomatoadmin.vercel.app/)
+
+## 🖥️ Portfolio
+Check out my [portfolio](https://sohan-das-portfolio.vercel.app/) for more projects and details.
+
+
